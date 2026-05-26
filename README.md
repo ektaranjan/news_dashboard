@@ -83,4 +83,4 @@ The goal of this project is to create a centralized intelligence-style dashboard
 
 ## 👨‍💻 Author
 
-Rohit Kumar
+Ekta Ranjan
